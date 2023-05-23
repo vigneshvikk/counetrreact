@@ -1,0 +1,13 @@
+.bttn{
+    display:flex;
+    justify-content:center;
+    
+}
+
+.cont{
+    margin-top:17%;
+    background-color: rgb(158, 204, 113);
+}
+.txt{
+    text-shadow: 3px 3px 3px rgb(22, 24, 26);
+}
